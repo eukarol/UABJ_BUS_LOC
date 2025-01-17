@@ -1,6 +1,6 @@
 # UABJ_BUS_LOC
 
-Projeto para gestão e localização de ônibus e rotas no campus da UABJ. Este sistema visa facilitar a vida dos estudantes e funcionários, permitindo consultas rápidas sobre horários, itinerários, envia notificações automáticas sobre a localização dos transportes via Telegram usando IA.
+Projeto para gestão e localização de ônibus e rotas no campus da UABJ. Este sistema visa facilitar a vida dos estudantes e funcionários, permitindo consultas rápidas sobre horários e itinerários. Envia notificações automáticas sobre a localização dos transportes via Telegram usando IA.
 
 ---
 
